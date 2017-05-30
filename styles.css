@@ -1,4 +1,27 @@
+/********** Body **********/
+.topbox {
+  background-color: #5a5a5a;
+}
+
+  .topbox-inner {
+    text-align: center;
+    padding: 2% 0% 1% 0%;
+  }
+
+  .proPic {
+    width: 20%;
+  }
+
+  .topbox-h1 {
+    color: white;
+  }
+
+article {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .imgSize {
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 400px;
 }
