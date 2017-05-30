@@ -16,12 +16,20 @@
     color: white;
   }
 
-article {
-  width: 50%;
-  margin: 0 auto;
-}
+.lowerBoxArt {
+    width: 50%;
+    margin: 0 auto;
+  }
 
-.imgSize {
-  height: 400px;
-  width: 400px;
-}
+  .picBox {
+    text-align: center;
+  }
+
+    .imgSize {
+      height: 50%;
+      width: 50%;
+    }
+
+  .lowerbox-p {
+    margin: 3% 0 10% 0;
+  }
